@@ -20,6 +20,11 @@ hello hii
 ### Lints and fixes files
 ```
 npm run lint
+dlsdlks'
+sdjfklsd
+sdfkjlsk;ad
+djlowsa;kdsl
+
 ```
 
 ### Customize configuration
