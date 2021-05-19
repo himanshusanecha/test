@@ -15,6 +15,8 @@ npm run serve
 npm run build
 ```
 
+hello hii
+
 ### Lints and fixes files
 ```
 npm run lint
